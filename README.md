@@ -1,5 +1,8 @@
 # Azure-CosmosDB-using-terraform
 
+
+<img width="824" alt="Screenshot 2024-08-05 at 19 16 32" src="https://github.com/user-attachments/assets/1ba2e1de-363c-4149-beae-ea0b062f8c64">
+
 ## Objective: 
       Automate the provisioning of Azure Cosmos DB resources to improve efficiency and reduce manual intervention.
 
